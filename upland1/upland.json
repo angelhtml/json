@@ -55,7 +55,7 @@
                 "upx_price":119000,
                 "up_size":263,
                 "location":"Bakersfield 11901 Findon Ct",
-                "image":"./upland/11901findonct.jpg"
+                "image":"./upland/11901findonct.JPG"
             },
             {
                 "_id":8,
@@ -63,7 +63,7 @@
                 "upx_price":56000,
                 "up_size":78,
                 "location":"Los Angeles 810 Beacon Ave",
-                "image":"./upland/810beaconave.jpg"
+                "image":"./upland/810beaconave.JPG"
             },
             {
                 "_id":9,
@@ -71,7 +71,7 @@
                 "upx_price":65000,
                 "up_size":83,
                 "location":"Los Angeles 721 S Lake St",
-                "image":"./upland/721slakest.jpg"
+                "image":"./upland/721slakest.JPG"
             },
             {
                 "_id":10,
@@ -79,7 +79,7 @@
                 "upx_price":69999,
                 "up_size":60,
                 "location":"Los Angeles 216 N Bonnie Brae St",
-                "image":"./upland/216nbonnie.jpg"
+                "image":"./upland/216nbonnie.JPG"
             }
         ]
     }
