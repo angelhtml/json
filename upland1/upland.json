@@ -1,0 +1,54 @@
+[
+    {
+        "upland":[
+            {
+                "_id":1,
+                "owner":"TIMSE1001",
+                "upx_price":8250,
+                "up_size":54,
+                "location":"Chicago 8000 S Elizabeth St",
+                "image":"./upland/elizabethst.JPG"
+            },
+            {
+                "_id":2,
+                "owner":"KNMINC",
+                "upx_price":8360,
+                "up_size":39,
+                "location":"Chicago 5348 W DEMING Pl",
+                "image":"./upland/5348wdeming.JPG"
+            },
+            {
+                "_id":3,
+                "owner":"ROBOMASTER",
+                "upx_price":8300,
+                "up_size":27,
+                "location":"Chicago 10409 S Cottage Grove Ave",
+                "image":"./upland/10409scottage.JPG"
+            },
+            {
+                "_id":4,
+                "owner":"KNMINC",
+                "upx_price":8350,
+                "up_size":39,
+                "location":"Chicago 5343 W Wrightwood Ave",
+                "image":"./upland/5343wwrightwood.JPG"
+            },
+            {
+                "_id":5,
+                "owner":"KNMINC",
+                "upx_price":8350,
+                "up_size":38,
+                "location":"Chicago 5354 W Deming Pl",
+                "image":"./upland/5343wdeming.JPG"
+            },
+            {
+                "_id":6,
+                "owner":"SUPERMAN88",
+                "upx_price":8380,
+                "up_size":26,
+                "location":"Chicago 2620 S Karlov Ave",
+                "image":"./upland/2620skarlov.JPG"
+            }
+        ]
+    }
+]
