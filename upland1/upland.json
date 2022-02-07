@@ -7,7 +7,7 @@
                 "upx_price":8250,
                 "up_size":54,
                 "location":"Chicago 8000 S Elizabeth St",
-                "image":"./upland/elizabethst.JPG"
+                "image":"https://angelhtml.github.io/json/upland1/upland/elizabethst.JPG"
             },
             {
                 "_id":2,
@@ -15,7 +15,7 @@
                 "upx_price":8360,
                 "up_size":39,
                 "location":"Chicago 5348 W DEMING Pl",
-                "image":"./upland/5348wdeming.JPG"
+                "image":"https://angelhtml.github.io/json/upland1/upland/5348wdeming.JPG"
             },
             {
                 "_id":3,
@@ -23,7 +23,7 @@
                 "upx_price":8300,
                 "up_size":27,
                 "location":"Chicago 10409 S Cottage Grove Ave",
-                "image":"./upland/10409scottage.JPG"
+                "image":"https://angelhtml.github.io/json/upland1/upland/10409scottage.JPG"
             },
             {
                 "_id":4,
@@ -31,7 +31,7 @@
                 "upx_price":8350,
                 "up_size":39,
                 "location":"Chicago 5343 W Wrightwood Ave",
-                "image":"./upland/5343wwrightwood.JPG"
+                "image":"https://angelhtml.github.io/json/upland1/upland/15343wwrightwood.JPG"
             },
             {
                 "_id":5,
@@ -39,7 +39,7 @@
                 "upx_price":8350,
                 "up_size":38,
                 "location":"Chicago 5354 W Deming Pl",
-                "image":"./upland/5343wdeming.JPG"
+                "image":"https://angelhtml.github.io/json/upland1/upland/5343wdeming.JPG"
             },
             {
                 "_id":6,
@@ -47,7 +47,7 @@
                 "upx_price":8380,
                 "up_size":26,
                 "location":"Chicago 2620 S Karlov Ave",
-                "image":"./upland/2620skarlov.JPG"
+                "image":"https://angelhtml.github.io/json/upland1/upland/2620skarlov.JPG"
             },
             {
                 "_id":7,
@@ -55,7 +55,7 @@
                 "upx_price":119000,
                 "up_size":263,
                 "location":"Bakersfield 11901 Findon Ct",
-                "image":"./upland/11901findonct.JPG"
+                "image":"https://angelhtml.github.io/json/upland1/upland/11901findonct.JPG"
             },
             {
                 "_id":8,
@@ -63,7 +63,7 @@
                 "upx_price":56000,
                 "up_size":78,
                 "location":"Los Angeles 810 Beacon Ave",
-                "image":"./upland/810beaconave.JPG"
+                "image":"https://angelhtml.github.io/json/upland1/upland/810beaconave.JPG"
             },
             {
                 "_id":9,
@@ -71,7 +71,7 @@
                 "upx_price":65000,
                 "up_size":83,
                 "location":"Los Angeles 721 S Lake St",
-                "image":"./upland/721slakest.JPG"
+                "image":"https://angelhtml.github.io/json/upland1/upland/721slakest.JPG"
             },
             {
                 "_id":10,
@@ -79,7 +79,7 @@
                 "upx_price":69999,
                 "up_size":60,
                 "location":"Los Angeles 216 N Bonnie Brae St",
-                "image":"./upland/216nbonnie.JPG"
+                "image":"https://angelhtml.github.io/json/upland1/upland/216nbonnie.JPG"
             }
         ]
     }
