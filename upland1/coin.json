@@ -1,9 +1,11 @@
 {
     "code": 0,
     "data": [
-        "XNOUSDT",
-        "PHAUSDT",
-        "POLISUSDT",
-        "XPRBTC"
+        [
+            "XLMUSDT",
+            "SHIBUSDT",
+            "DOGEUSDT"
         ]
+    ],
+    "message": "OK"
 }
