@@ -1,12 +1,9 @@
-[{
-    "data":[
-        {
-            "code": 0,
-            "data": [
-                "XLMUSDT",
-                "SHIBUSDT",
-                "DOGEUSDT"
-                ]
-            }
-    ]
-}]
+{
+    "code": 0,
+    "data": [
+        "XNOUSDT",
+        "PHAUSDT",
+        "POLISUSDT",
+        "XPRBTC"
+        ]
+}
