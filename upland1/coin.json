@@ -4,9 +4,7 @@
         "XLMUSDT",
         "DOGEUSDT",
         "SHIBUSDT",
-        "ETHUSDT",
-        "BTCUSDT",
-        "ADAUSDT"
+        "ETHUSDT"
     ],
     "message": "OK"
 }
