@@ -3,7 +3,10 @@
     "data": [
         "XLMUSDT",
         "DOGEUSDT",
-        "SHIBUSDT"
+        "SHIBUSDT",
+        "ETHUSDT",
+        "BTCUSDT",
+        "ADAUSDT"
     ],
     "message": "OK"
 }
