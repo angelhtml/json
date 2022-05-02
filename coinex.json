@@ -1,19 +1,5 @@
 [
   {
-    "https://www.CryptoDataDownload.com": "unix",
-    "__parsed_extra": [
-      "date",
-      "symbol",
-      "open",
-      "high",
-      "low",
-      "close",
-      "Volume XLM",
-      "Volume USDT",
-      "tradecount"
-    ]
-  },
-  {
     "https://www.CryptoDataDownload.com": "1651276800000",
     "__parsed_extra": [
       "2022-04-30 00:00:00",
