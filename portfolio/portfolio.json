@@ -1,0 +1,82 @@
+[
+    {
+        "_id":1,
+        "title": "Cryptomoonshots",
+        "technologies" : "React Js & Node Js",
+        "link" : "https://cryptomoonshots.site",
+        "txt" : "cryptomoonshots.site",
+        "image" : "/Screenshot_2021-10-12-22-10-34-1-1.webp"
+    },
+    {
+        "_id":2,
+        "title": "Christmas Event",
+        "technologies" : "Next Js",
+        "link" : "https://loving-kepler-ae4567.netlify.app/",
+        "txt" : "netlify.app/",
+        "image" : "/IMG_20220301_233555.webp"
+    },
+    {
+        "_id":3,
+        "title": "Auto service",
+        "technologies" : "React Js",
+        "link" : "https://angelhtml.github.io/autos/",
+        "txt" : "Github/angelhtml",
+        "image" : "/68747470733a2f2f69696c692e696f2f37356b7a666a2e6a7067.webp"
+    },
+    {
+        "_id":4,
+        "title": "Crypto Home",
+        "technologies" : "Next Js",
+        "link" : "https://distracted-mestorf-55ac92.netlify.app/",
+        "txt" : "netlify.app/",
+        "image" : "/68747470733a2f2f69696c692e696f2f376430506c522e706e67.webp"
+    },
+    {
+        "_id":5,
+        "title": "Estate",
+        "technologies" : "React Js",
+        "link" : "https://angelhtml.github.io/react1/",
+        "txt" : "Github/angelhtml",
+        "image" : "/Capture.webp"
+    },
+    {
+        "_id":6,
+        "title": "Gamfa Web",
+        "technologies" : "React Js",
+        "link" : "https://angelhtml.github.io/gamfa/",
+        "txt" : "Github/angelhtml",
+        "image" : "/Capturegam.webp"
+    },
+    {
+        "_id":7,
+        "title": "Icon Snipergamer",
+        "technologies" : "React Js",
+        "link" : "https://angelhtml.github.io/Iconsnipergamer/",
+        "txt" : "Github/angelhtml",
+        "image" : "/Capture777.webp"
+    },
+    {
+        "_id":8,
+        "title": "Dawn Fm Player",
+        "technologies" : "Next Js",
+        "link" : "https://dawn-fm.netlify.app/",
+        "txt" : "netlify.app/",
+        "image" : "/S7NNZQ.webp"
+    },
+    {
+        "_id":9,
+        "title": "Discord Trading Bot",
+        "technologies" : "Node Js",
+        "link" : "https://github.com/angelhtml/Discord_Trading_Bot",
+        "txt" : "Github/angelhtml",
+        "image" : "/discord.webp"
+    },
+    {
+        "_id":10,
+        "title": "The Clan",
+        "technologies" : "Next Js",
+        "link" : "https://theclanproject.netlify.app/",
+        "txt" : "netlify.app/",
+        "image" : "/screenshot_2022-01-27-14-51-43-0000.webp"
+    }
+]
