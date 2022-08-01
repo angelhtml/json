@@ -5,7 +5,8 @@
         "technologies" : "React Js & Node Js",
         "link" : "https://cryptomoonshots.site",
         "txt" : "cryptomoonshots.site",
-        "image" : "/Screenshot_2021-10-12-22-10-34-1-1.webp"
+        "image" : "https://iili.io/S8b3Cu.webp",
+        "alt" : "Cryptomoonshots"
     },
     {
         "_id":2,
@@ -13,7 +14,8 @@
         "technologies" : "Next Js",
         "link" : "https://loving-kepler-ae4567.netlify.app/",
         "txt" : "netlify.app/",
-        "image" : "/IMG_20220301_233555.webp"
+        "image" : "https://iili.io/S8DCzX.webp",
+        "alt" : "Christmas Event"
     },
     {
         "_id":3,
@@ -21,7 +23,8 @@
         "technologies" : "React Js",
         "link" : "https://angelhtml.github.io/autos/",
         "txt" : "Github/angelhtml",
-        "image" : "/68747470733a2f2f69696c692e696f2f37356b7a666a2e6a7067.webp"
+        "image" : "https://iili.io/S8tDOP.webp",
+        "alt" : "Auto service"
     },
     {
         "_id":4,
@@ -29,7 +32,8 @@
         "technologies" : "Next Js",
         "link" : "https://distracted-mestorf-55ac92.netlify.app/",
         "txt" : "netlify.app/",
-        "image" : "/68747470733a2f2f69696c692e696f2f376430506c522e706e67.webp"
+        "image" : "https://iili.io/S8tt5B.webp",
+        "alt" : "Crypto Home"
     },
     {
         "_id":5,
@@ -37,7 +41,8 @@
         "technologies" : "React Js",
         "link" : "https://angelhtml.github.io/react1/",
         "txt" : "Github/angelhtml",
-        "image" : "/Capture.webp"
+        "image" : "https://iili.io/S8tZJV.webp",
+        "alt" : "Estate"
     },
     {
         "_id":6,
@@ -45,7 +50,8 @@
         "technologies" : "React Js",
         "link" : "https://angelhtml.github.io/gamfa/",
         "txt" : "Github/angelhtml",
-        "image" : "/Capturegam.webp"
+        "image" : "https://iili.io/S8tMNt.webp",
+        "alt" : "Gamfa Web"
     },
     {
         "_id":7,
@@ -53,15 +59,17 @@
         "technologies" : "React Js",
         "link" : "https://angelhtml.github.io/Iconsnipergamer/",
         "txt" : "Github/angelhtml",
-        "image" : "/Capture777.webp"
+        "image" : "https://iili.io/S8t7Va.webp",
+        "alt" : "Icon Snipergamer"
     },
     {
         "_id":8,
-        "title": "Dawn Fm Player",
+        "title": "The Clan",
         "technologies" : "Next Js",
-        "link" : "https://dawn-fm.netlify.app/",
+        "link" : "https://theclanproject.netlify.app/",
         "txt" : "netlify.app/",
-        "image" : "/S7NNZQ.webp"
+        "image" : "https://iili.io/S8tADF.webp",
+        "alt" : "The Clan"
     },
     {
         "_id":9,
@@ -69,14 +77,17 @@
         "technologies" : "Node Js",
         "link" : "https://github.com/angelhtml/Discord_Trading_Bot",
         "txt" : "Github/angelhtml",
-        "image" : "/discord.webp"
+        "image" : "https://iili.io/S8t2A7.webp",
+        "alt" : "Discord Trading Bot"
     },
     {
         "_id":10,
-        "title": "The Clan",
+        "title": "Dawn Fm Player",
         "technologies" : "Next Js",
-        "link" : "https://theclanproject.netlify.app/",
+        "link" : "https://dawn-fm.netlify.app/",
         "txt" : "netlify.app/",
-        "image" : "/screenshot_2022-01-27-14-51-43-0000.webp"
+        "image" : "https://iili.io/S8ZR44.webp",
+        "alt" : "Dawn Fm Player"
     }
+
 ]
