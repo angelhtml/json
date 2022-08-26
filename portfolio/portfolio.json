@@ -1,14 +1,5 @@
 [
     {
-        "_id":1,
-        "title": "Cryptomoonshots",
-        "technologies" : "React Js & Node Js",
-        "link" : "https://cryptomoonshots.site",
-        "txt" : "cryptomoonshots.site",
-        "image" : "https://iili.io/S8b3Cu.webp",
-        "alt" : "Cryptomoonshots"
-    },
-    {
         "_id":2,
         "title": "Christmas Event",
         "technologies" : "Next Js",
