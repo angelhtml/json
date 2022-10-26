@@ -28,7 +28,7 @@
         "date" : "0000",
         "main_image" : "test.jpg",
         "images" : ["test.jpg","test.jpg","test.jpg"],
-        "prepayment" : 0,
-        "cost" : 7000000000
+        "prepayment" : 7000000000,
+        "cost" : 0
     }
 ]
