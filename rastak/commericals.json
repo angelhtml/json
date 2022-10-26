@@ -1,0 +1,30 @@
+[
+    {
+        "_id" : 0,
+        "title" : "100 متری گلشهر",
+        "type" : "مسکونی",
+        "parking" : 1,
+        "bedroom" : 2,
+        "status" : "رهن و اجاره",
+        "description" : "توضیحات",
+        "short_description" : "short",
+        "call_number" : "0912000000",
+        "date" : "0000",
+        "main_image" : "test.jpg",
+        "images" : ["test.jpg","test.jpg","test.jpg"]
+    },
+    {
+        "_id" : 1,
+        "title" : "90 متری گلشهر",
+        "type" : "مسکونی",
+        "parking" : 0,
+        "bedroom" : 2,
+        "status" : "رهن و اجاره",
+        "description" : "توضیحات",
+        "short_description" : "short",
+        "call_number" : "0912000000",
+        "date" : "0000",
+        "main_image" : "test.jpg",
+        "images" : ["test.jpg","test.jpg","test.jpg"]
+    }
+]
