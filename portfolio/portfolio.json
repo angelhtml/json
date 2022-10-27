@@ -88,15 +88,6 @@
         "txt" : "Github/angelhtml",
         "image" : "https://iili.io/4HdaKQ.png",
         "alt" : "Form generator"
-    },
-            {
-        "_id":11,
-        "title": "Form generator",
-        "technologies" : "Next Js",
-        "link" : "https://github.com/angelhtml/Form_generator",
-        "txt" : "Github/angelhtml",
-        "image" : "https://iili.io/4HdaKQ.png",
-        "alt" : "Form generator"
     }
 
 ]
