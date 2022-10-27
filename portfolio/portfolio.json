@@ -88,6 +88,15 @@
         "txt" : "Github/angelhtml",
         "image" : "https://iili.io/4HdaKQ.png",
         "alt" : "Form generator"
-    }
+    },
+        {
+        "_id":11,
+        "title": "Christmas Event",
+        "technologies" : "Next Js",
+        "link" : "https://loving-kepler-ae4567.netlify.app/",
+        "txt" : "netlify.app/",
+        "image" : "https://iili.io/S8DCzX.webp",
+        "alt" : "Christmas Event"
+    },
 
 ]
