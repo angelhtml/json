@@ -15,5 +15,21 @@
         "images" : ["https://iili.io/DLjup4.webp","https://iili.io/DLinGs.jpg","https://iili.io/DLN3WN.jpg","https://iili.io/DLNQpf.jpg","https://iili.io/DLO5jR.webp","https://iili.io/DLOZcF.md.webp","https://iili.io/DLeAl9.md.webp","https://iili.io/DLeNDv.webp","https://iili.io/DLkJbj.webp"],
         "prepayment" : 100000000,
         "cost" : 7500000
+    },
+        {
+        "_id" : 0,
+        "title" : "80 متر مهرشهر کیانمهر",
+        "type" : "مسکونی",
+        "parking" : 1,
+        "bedroom" : 2,
+        "status" : "اجاره",
+        "description" : " بک واحد آپارتمان واقع در کرج مهرشهر کیانمهر با ویو بسیار عالی و مشاعات دلباز در محیطی امن و زیبا نزدیک به بازار به همراه سیستم اطفای حریق و سرایداری در طبقه ی 3 در 5 طبقه چهار واحدی دارای تراس و انباری به همراه آسانسور. مشاور شما املاک رستاک",
+        "short_description" : "اپارتمان اجاره در کرج مهرشهر کیانمهر",
+        "call_number" : "09123042174",
+        "date" : "0000",
+        "main_image" : "https://iili.io/DLjup4.webp",
+        "images" : ["https://iili.io/DLjup4.webp","https://iili.io/DLinGs.jpg","https://iili.io/DLN3WN.jpg","https://iili.io/DLNQpf.jpg","https://iili.io/DLO5jR.webp","https://iili.io/DLOZcF.md.webp","https://iili.io/DLeAl9.md.webp","https://iili.io/DLeNDv.webp","https://iili.io/DLkJbj.webp"],
+        "prepayment" : 50000000,
+        "cost" : 5500000
     } 
 ]
