@@ -80,7 +80,7 @@
         "image" : "https://iili.io/S8ZR44.webp",
         "alt" : "Dawn Fm Player"
     },
-        {
+    {
         "_id":10,
         "title": "Form generator",
         "technologies" : "Next Js",
