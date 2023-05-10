@@ -88,6 +88,15 @@
         "txt" : "Github/angelhtml",
         "image" : "https://iili.io/4HdaKQ.png",
         "alt" : "Form generator"
+    },
+    {
+        "_id":11,
+        "title": "Cryptomoonshots",
+        "technologies" : "Solid Js",
+        "link" : "https://cryptomoonshots.com/",
+        "txt" : "cryptomoonshots.com",
+        "image" : "https://iili.io/HUnwMb4.png",
+        "alt" : "Cryptomoonshots"
     }
 
 ]
