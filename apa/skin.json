@@ -1,0 +1,82 @@
+[
+    {
+        "_id": 0,
+        "name": "ice ninja",
+        "image": "https://www.minecraftskins.com/uploads/preview-skins/2023/12/28/ice-ninja---i-forgot-to-save-my-other-better-one--22214128.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22214128?title=Ice+ninja%2C+%28I+forgot+to+save+my+other+better+one%29",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 2,
+        "name": "Remix silver",
+        "image": "https://www.minecraftskins.com/uploads/preview-skins/2023/12/27/remix-silver--silversnyperxx-skin--22213149.png?v609",
+        "download": "https://www.minecraftskins.com/skin/download/22213149?title=Remix+Silver+%28SilverSnyperxx+skin%29",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 3,
+        "name":"Frieza",
+        "image": "https://www.minecraftskins.com/uploads/preview-skins/2023/12/27/frieza-22213104.png?v609",
+        "download": "https://www.minecraftskins.com/skin/download/22213104?title=Frieza",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 4,
+        "name": "tortle",
+        "image": "https://www.minecraftskins.com/uploads/preview-skins/2023/12/27/tortle---oc-22213022.png?v609",
+        "download": "https://www.minecraftskins.com/skin/download/22213022?title=tortle+%3B+oc",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 5,
+        "name": "pretty colors",
+        "image": "https://www.minecraftskins.com/uploads/preview-skins/2023/12/27/lucien-flavius-skyrim-elderscrolls-22212957.png?v609",
+        "download": "https://www.minecraftskins.com/skin/download/22212977?title=%7C%60Pretty+colors+right%3F%60%7C+%2B+STORYYY",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 6,
+        "name": "multicolor hoodie",
+        "image": "https://www.minecraftskins.com/uploads/preview-skins/2023/12/27/multicolor-hoodie-22211588.png?v609",
+        "download": "https://www.minecraftskins.com/skin/download/22211588?title=multicolor+hoodie",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 7,
+        "name": "bear with pink santa hat and bowtie",
+        "image": "https://www.minecraftskins.com/uploads/preview-skins/2023/12/27/bear-with-pink-santa-hat-and-bowtie-22211440.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22211440?title=bear+with+pink+santa+hat+and+bowtie",
+        "premium": true,
+        "code": "2eBz61"
+    },
+    {
+        "_id": 8,
+        "name":"Skylor",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2023/12/26/skylor-22210757.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22210757?title=Skylor",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 9,
+        "name":"Creeper Dude",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2023/12/26/creeper-dude-22210628.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22210628?title=Creeper+Dude",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 10,
+        "name":"Frank Ocean Blond",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2023/12/26/frank-ocean-blond-22210447.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22210447?title=Frank+Ocean+Blond",
+        "premium": false,
+        "code": "0"
+    }
+]

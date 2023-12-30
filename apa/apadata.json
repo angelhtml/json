@@ -1,0 +1,22 @@
+{
+    "stream" : {
+        "info": "!ساعت های استریم به زودی منتشر می شود"
+    },
+    "videos": [
+        {
+            "_id": 0,
+            "code": "uBkEL",
+            "link": "https://www.aparat.com/v/uBkEL"
+        },
+        {
+            "_id": 1,
+            "code": "GMJ9O",
+            "link": "https://www.aparat.com/v/GMJ9O"
+        },
+        {
+            "_id": 2,
+            "code": "jcVpd",
+            "link": "https://www.aparat.com/v/jcVpd"
+        }
+    ]
+}
