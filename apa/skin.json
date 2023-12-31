@@ -206,5 +206,61 @@
         "download":"https://www.minecraftskins.com/skin/download/22214052?title=Do+you+know+who+I+am%3F",
         "premium": false,
         "code": "0"
+    },
+    {
+        "_id": 27,
+        "name":"Black'n'white",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2023/12/29/black--n--white-22218263.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22218263?title=Black+%27n%27+white",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 28,
+        "name":"Gingy pet",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2023/12/28/--gingy-man---22215232.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22215232?title=%7E+Gingy+Man+%7E",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 29,
+        "name":"Fernando larise",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2023/12/31/fernando-normal-22222271.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22222271?title=Fernando+Normal",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 30,
+        "name":"GLower zep",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2023/12/31/glower-4-22222233.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22222233?title=GLower_4",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 31,
+        "name":"Synthwave Hazmat",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2023/12/28/synthwave-hazmat-suit-22213794.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22213794?title=Synthwave+Hazmat+Suit",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 32,
+        "name":"Dark sweat",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2023/12/25/sweat--effects--22208157.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22208157?title=Sweat+%28Effects%29",
+        "premium": true,
+        "code": "0wvS59"
+    },
+    {
+        "_id": 33,
+        "name":"lucy preck",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2023/12/28/100--3-22213679.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22213679?title=100+%3C3",
+        "premium": false,
+        "code": "0"
     }
 ]
