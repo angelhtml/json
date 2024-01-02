@@ -254,5 +254,77 @@
         "download":"https://www.minecraftskins.com/skin/download/22213679?title=100+%3C3",
         "premium": false,
         "code": "0"
+    },
+    {
+        "_id": 33,
+        "name":"darky shezem",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2024/01/02/darky-shezem-22228077.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22228077?title=darky+shezem",
+        "premium": true,
+        "code": "12ut30D"
+    },
+    {
+        "_id": 34,
+        "name":"Entity_303",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2024/01/02/entity-303-22228226.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22228226?title=Entity_303",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 35,
+        "name":"Alpha daii",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2024/01/02/alpha-daii-22228231.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22228231?title=alpha+daii",
+        "premium": true,
+        "code": "xf59af"
+    },
+    {
+        "_id": 36,
+        "name":"Steve daii",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2024/01/02/steve-daii-22228250.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22228250?title=steve+daii",
+        "premium": true,
+        "code": "69Tv12c"
+    },
+    {
+        "_id": 37,
+        "name":"Alester daii",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2024/01/02/alester-daii-22228255.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22228255?title=Alester+daii",
+        "premium": true,
+        "code": "89Rx08g"
+    },
+    {
+        "_id": 38,
+        "name":"Ender daii",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2024/01/02/ender-daii-22228263.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22228263?title=Ender+daii",
+        "premium": true,
+        "code": "9Mb31ja"
+    },
+    {
+        "_id": 39,
+        "name":"Discs lore",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2024/01/02/discs-lore-22228282.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22228282?title=Discs+lore",
+        "premium": true,
+        "code": "wo81yA4"
+    },
+    {
+        "_id": 40,
+        "name":"burger",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2024/01/02/burger--credit-to-sageasteroid1-for-base--22228237.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22228237?title=burger+%28credit+to+sageasteroid1+for+base%29",
+        "premium": false,
+        "code": "0"
+    },
+    {
+        "_id": 41,
+        "name":"Cyber loader",
+        "image":"https://www.minecraftskins.com/uploads/preview-skins/2024/01/02/cyber-loader-22228295.png?v609",
+        "download":"https://www.minecraftskins.com/skin/download/22228295?title=Cyber+loader",
+        "premium": true,
+        "code": "4p8kz3F"
     }
 ]
