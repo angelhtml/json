@@ -1,0 +1,28 @@
+[{
+        "maps": [{
+                "_id": 0,
+                "builder": "RIP_ABOL_FOX",
+                "code": "7325-0420-4911",
+                "name": "space breaker",
+                "vip": true
+            },
+            {
+                "_id": 1,
+                "builder": "RIP_ABOL_FOX",
+                "code": "7325-0420-4911",
+                "name": "space breaker",
+                "vip": false
+            }
+        ]
+    },
+    {
+        "winner": [{
+            "_id": 0,
+            "name": "your name",
+            "image": "./normal.webp",
+            "wins": 999,
+            "width": "100px"
+        }
+    ]
+    }
+]
