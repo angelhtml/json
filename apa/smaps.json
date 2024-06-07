@@ -19,7 +19,7 @@
         "winner": [{
             "_id": 0,
             "name": "your name",
-            "image": "./normal.webp",
+            "image": "https://iili.io/JpX7k8J.webp",
             "wins": 999,
             "width": "100px"
         }
