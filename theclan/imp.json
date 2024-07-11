@@ -1,5 +1,9 @@
-[
-    {
-        "script":"https://www.hostingcloud.racing/fpQc.js"
+{
+        invest : {
+            "st": 2.23,
+            "sb": 0.07,
+            "gt": 6780,
+            "dt": 1896000
+        },
+        shop : {}   
     }
-]
