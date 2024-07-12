@@ -96,15 +96,22 @@
                 "code": "3162-5570-9008",
                 "name": "fffff",
                 "vip": false
+            },
+            {
+                "_id": 14,
+                "builder": "MJH_parsa_rip",
+                "code": "6357-0351-7020",
+                "name": "MJH_parsa_rip",
+                "vip": true
             } 
         ]
     },
     {
         "winner": [{
             "_id": 0,
-            "name": "*mahan*",
-            "image": "https://iili.io/dFTYhOv.png",
-            "wins": 189,
+            "name": "MR-PIXEL",
+            "image": "https://iili.io/dqtJHOl.png",
+            "wins": 291,
             "width": "100px"
         }
     ]
