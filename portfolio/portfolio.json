@@ -97,6 +97,15 @@
         "txt" : "cryptomoonshots.com",
         "image" : "https://iili.io/HUnwMb4.png",
         "alt" : "Cryptomoonshots"
+    },
+    {
+        "_id":12,
+        "title": "Ramsay Empire",
+        "technologies" : "React Js",
+        "link" : "https://ramsayempire.netlify.app",
+        "txt" : "netlify.app/",
+        "image" : "https://iili.io/2fzzL5x.png",
+        "alt" : "Ramsay"
     }
 
 ]
