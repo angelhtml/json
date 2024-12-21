@@ -1,0 +1,10 @@
+[
+    {
+        "id": 0,
+        "title": "محصول 1",
+        "description": "توضیحات محصول 1",
+        "image": "@/assets/images/happy--mothers-day-39911.jpg",
+        "link": "https://reactnative.dev/docs/image-style-props",
+        "price": 5000
+    }
+]
