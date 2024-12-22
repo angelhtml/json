@@ -3,7 +3,7 @@
         "id": 0,
         "title": "محصول 1",
         "description": "توضیحات محصول 1",
-        "image": "@/assets/images/happy--mothers-day-39911.jpg",
+        "image": "https://iili.io/2Oqu0an.jpg",
         "link": "https://reactnative.dev/docs/image-style-props",
         "price": 5000,
         "category": "پسرانه"
@@ -12,7 +12,7 @@
         "id": 1,
         "title": "محصول2",
         "description": "توضیحات محصول 2",
-        "image": "@/assets/images/happy--mothers-day-39911.jpg",
+        "image": "https://iili.io/2Oqu0an.jpg",
         "link": "https://reactnative.dev/docs/image-style-props",
         "price": 10000,
         "category": "پسرانه"
@@ -21,7 +21,7 @@
         "id": 2,
         "title": "محصول 3",
         "description": "توضیحات محصول 3",
-        "image": "@/assets/images/happy--mothers-day-39911.jpg",
+        "image": "https://iili.io/2Oqu0an.jpg",
         "link": "https://reactnative.dev/docs/image-style-props",
         "price": 15000,
         "category": "دخترانه"
@@ -30,7 +30,7 @@
         "id": 3,
         "title": "محصول 4",
         "description": "توضیحات محصول 4",
-        "image": "@/assets/images/happy--mothers-day-39911.jpg",
+        "image": "https://iili.io/2Oqu0an.jpg",
         "link": "https://reactnative.dev/docs/image-style-props",
         "price": 20000,
         "category": "دخترانه"
@@ -39,7 +39,7 @@
         "id": 4,
         "title": "محصول 5",
         "description": "توضیحات محصول 5",
-        "image": "@/assets/images/happy--mothers-day-39911.jpg",
+        "image": "https://iili.io/2Oqu0an.jpg",
         "link": "https://reactnative.dev/docs/image-style-props",
         "price": 25000,
         "category": "دکوریجات"
