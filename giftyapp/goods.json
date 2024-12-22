@@ -5,7 +5,8 @@
         "description": "توضیحات محصول 1",
         "image": "@/assets/images/happy--mothers-day-39911.jpg",
         "link": "https://reactnative.dev/docs/image-style-props",
-        "price": 5000
+        "price": 5000,
+        "category": "پسرانه"
     },
     {
         "id": 1,
@@ -13,7 +14,8 @@
         "description": "توضیحات محصول 2",
         "image": "@/assets/images/happy--mothers-day-39911.jpg",
         "link": "https://reactnative.dev/docs/image-style-props",
-        "price": 10000
+        "price": 10000,
+        "category": "پسرانه"
     },
     {
         "id": 2,
@@ -21,7 +23,8 @@
         "description": "توضیحات محصول 3",
         "image": "@/assets/images/happy--mothers-day-39911.jpg",
         "link": "https://reactnative.dev/docs/image-style-props",
-        "price": 15000
+        "price": 15000,
+        "category": "دخترانه"
     },
     {
         "id": 3,
@@ -29,7 +32,8 @@
         "description": "توضیحات محصول 4",
         "image": "@/assets/images/happy--mothers-day-39911.jpg",
         "link": "https://reactnative.dev/docs/image-style-props",
-        "price": 20000
+        "price": 20000,
+        "category": "دخترانه"
     },
     {
         "id": 4,
@@ -37,6 +41,7 @@
         "description": "توضیحات محصول 5",
         "image": "@/assets/images/happy--mothers-day-39911.jpg",
         "link": "https://reactnative.dev/docs/image-style-props",
-        "price": 25000
+        "price": 25000,
+        "category": "دکوریجات"
     }
 ]
