@@ -529,5 +529,32 @@
         "link": "https://zanbil.online/product/sunglasses-mp3/?ref=farhad9978&campaign=vkh_shop",
         "price": 799000,
         "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 59,
+        "title": "ساعت رو میزی طرح موتور motorclock",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2020/03/iu5pmu4j_thumb3.jpg",
+        "link": "https://zanbil.online/product/motorclock/?ref=farhad9978&campaign=vkh_shop",
+        "price": 329000,
+        "category": "دکوریجات"
+    },
+    {
+        "id": 60,
+        "title": "ساعت هوشمند Smart watch",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2023/05/m7-max-smart-watch-1-510x510-1.jpg",
+        "link": "https://zanbil.online/product/smart-watch/?ref=farhad9978&campaign=vkh_shop",
+        "price": 1490000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 61,
+        "title": "تخته نرد و شطرنج چوبی",
+        "description": "تخته نرد و شطرنج چوبی جدید با طرح و نقش بسیار زیبا به همراه لوازم و ست کامل چوبی در کاور و کیف حمل مخصوص پارچه ای",
+        "image": "https://zanbil.online/wp-content/uploads/2023/10/IMG_7360.jpg",
+        "link": "https://zanbil.online/product/nard/?ref=farhad9978&campaign=vkh_shop",
+        "price": 550000,
+        "category": "دکوریجات"
     }
 ]
