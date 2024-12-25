@@ -493,5 +493,41 @@
         "link": "https://zanbil.online/product/star-master/?ref=farhad9978&campaign=vkh_shop",
         "price": 147000,
         "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 55,
+        "title": "گل سر چراغ دار پروانه ای",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2023/10/4839_1695902773.jpg",
+        "link": "https://zanbil.online/product/lepar/?ref=farhad9978&campaign=vkh_shop",
+        "price": 169000,
+        "category": "دخترانه"
+    },
+    {
+        "id": 56,
+        "title": "عینک ری بن شیشه قهوه ای ray ban",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2020/06/22201.jpg",
+        "link": "https://zanbil.online/product/ray-ban/?ref=farhad9978&campaign=vkh_shop",
+        "price": 50000,
+        "category": "پسرانه"
+    },
+    {
+        "id": 57,
+        "title": "عینک خلبانی شیشه آبی rayban",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2020/04/unnamed.jpg",
+        "link": "https://zanbil.online/product/rayban/?ref=farhad9978&campaign=vkh_shop",
+        "price": 47000,
+        "category": "پسرانه"
+    },
+    {
+        "id": 58,
+        "title": "عینک ام پی تری پلیر 4 گیگ",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2019/12/rBVaVVzEJmqAX3RbAADDVJVXjB0323.jpg",
+        "link": "https://zanbil.online/product/sunglasses-mp3/?ref=farhad9978&campaign=vkh_shop",
+        "price": 799000,
+        "category": "لوازم الکترونیک"
     }
 ]
