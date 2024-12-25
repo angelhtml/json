@@ -358,5 +358,59 @@
         "link": "https://zanbil.online/product/pocket-fan/?ref=farhad9978&campaign=vkh_shop",
         "price": 99000,
         "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 40,
+        "title": "سالن شیپر مانیکور ناخن salon shaper",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2021/04/manik5.jpg",
+        "link": "https://zanbil.online/product/salon-shaper/?ref=farhad9978&campaign=vkh_shop",
+        "price": 193000,
+        "category": "دخترانه"
+    },
+    {
+        "id": 41,
+        "title": "فندک بنزینی زیپو zippo",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2020/10/product_1161_1514018975_37595.jpg",
+        "link": "https://zanbil.online/product/zippo/?ref=farhad9978&campaign=vkh_shop",
+        "price": 920000,
+        "category": "دکوریجات"
+    },
+    {
+        "id": 42,
+        "title": "جای عود طرح پر مدل اصل",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2020/02/4084574.jpg",
+        "link": "https://zanbil.online/product/z-a12/?ref=farhad9978&campaign=vkh_shop",
+        "price": 19000,
+        "category": "دکوریجات"
+    },
+    {
+        "id": 43,
+        "title": "رقص نور اکولایزر RGB",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2024/10/01.jpg",
+        "link": "https://zanbil.online/product/رقص-نور-اکولایزر-rgb/?ref=farhad9978&campaign=vkh_shop",
+        "price": 348000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 44,
+        "title": "ساعت مچی بند چرم والار طرح رولکس",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2023/05/IMG_5637.jpg",
+        "link": "https://zanbil.online/product/ساعت-مچی-بند-چرم-والار-طرح-رولکس-2/?ref=farhad9978&campaign=vkh_shop",
+        "price": 119000,
+        "category": "پسرانه"
+    },
+    {
+        "id": 45,
+        "title": "مچ بند کودکانه هوشمند دفع کننده حشرات",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2022/05/4313_1651342254.jpg",
+        "link": "https://zanbil.online/product/m-d/?ref=farhad9978&campaign=vkh_shop",
+        "price": 720000,
+        "category": "اسباب بازی"
     }
 ]
