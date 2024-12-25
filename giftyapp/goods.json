@@ -322,5 +322,41 @@
         "link": "https://zanbil.online/product/long-balloons/?ref=farhad9978&campaign=vkh_shop",
         "price": 29000,
         "category": "اسباب بازی"
+    },
+    {
+        "id": 36,
+        "title": "جا عودی طرح ماه moon face",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2024/01/4691_1704195506.jpg",
+        "link": "https://zanbil.online/product/جا-عودی-طرح-ماه-moon-face/?ref=farhad9978&campaign=vkh_shop",
+        "price": 69000,
+        "category": "دکوریجات"
+    },
+    {
+        "id": 37,
+        "title": "دستگاه نگین زنی همه کاره bling",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2021/08/4226_1630068542.jpg",
+        "link": "https://zanbil.online/product/bling/?ref=farhad9978&campaign=vkh_shop",
+        "price": 799000,
+        "category": "دخترانه"
+    },
+    {
+        "id": 38,
+        "title": "گلدان فانتزی طرح کتاب دکوراتیو",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2021/05/3400_1543935616.jpg",
+        "link": "https://zanbil.online/product/goldan-ketab/?ref=farhad9978&campaign=vkh_shop",
+        "price": 630000,
+        "category": "دکوریجات"
+    },
+    {
+        "id": 39,
+        "title": "پنکه جیبی باتری خور جدید Pocket fan",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2021/05/4019_1619461448.jpg",
+        "link": "https://zanbil.online/product/pocket-fan/?ref=farhad9978&campaign=vkh_shop",
+        "price": 99000,
+        "category": "لوازم الکترونیک"
     }
 ]
