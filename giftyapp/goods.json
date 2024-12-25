@@ -475,5 +475,23 @@
         "link": "https://zanbil.online/product/lamp-spicer/?ref=farhad9978&campaign=vkh_shop",
         "price": 198000,
         "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 53,
+        "title": "چراغ خورشیدی طرح سنگ led",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2020/01/3710_1576860378.jpg",
+        "link": "https://zanbil.online/product/led-lamp/?ref=farhad9978&campaign=vkh_shop",
+        "price": 250000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 54,
+        "title": "چراغ خواب طرح ستاره star master",
+        "description": "چراغ خواب مخصوص اتاق کودک یک محصول با طراحی جدید و بسیار جالب می باشد که قابلیت پخش نور بر روی دیوار و سقف اتاق در حالت اسمان تاریک و پرستاره را داشته و می تواند بسییار جالب و جذاب مخصوصا برای کودکان و نوجوانان باشد.",
+        "image": "https://zanbil.online/wp-content/uploads/2020/01/1535_1418751976.jpg",
+        "link": "https://zanbil.online/product/star-master/?ref=farhad9978&campaign=vkh_shop",
+        "price": 147000,
+        "category": "لوازم الکترونیک"
     }
 ]
