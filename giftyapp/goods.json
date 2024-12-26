@@ -556,5 +556,113 @@
         "link": "https://zanbil.online/product/nard/?ref=farhad9978&campaign=vkh_shop",
         "price": 550000,
         "category": "دکوریجات"
+    },
+    {
+        "id": 62,
+        "title": "اسپیکر و وایرلس شارژ چندکاره",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2024/12/2ba7a5de5bd34362b5f17a00af78752b.jpg",
+        "link": "https://zanbil.online/product/rgb-wireless/?ref=farhad9978&campaign=vkh_shop",
+        "price": 548000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 63,
+        "title": "خوشبو کننده مدل هلی کوپتر",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2024/09/yopshop.ir-car-air-fresher-5.webp",
+        "link": "https://zanbil.online/product/ktp030/?ref=farhad9978&campaign=vkh_shop",
+        "price": 448000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 64,
+        "title": "رقص نور کریستالی light cs",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2023/07/4796_1687195287.jpg",
+        "link": "https://zanbil.online/product/light-cs/?ref=farhad9978&campaign=vkh_shop",
+        "price": 349000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 65,
+        "title": "اسپیکر قابل حمل کیمیسو",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2023/04/4471_1681465850.jpg",
+        "link": "https://zanbil.online/product/kimiso/?ref=farhad9978&campaign=vkh_shop",
+        "price": 248000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 66,
+        "title": "اسپیکر مینیاتوری JBL اصل",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2021/11/4351_1637082315.jpeg",
+        "link": "https://zanbil.online/product/jbl/?ref=farhad9978&campaign=vkh_shop",
+        "price": 280000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 67,
+        "title": "اسپیکر بلوتوثی قابل حمل مدل Tg-113",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2021/09/5215325.jpg",
+        "link": "https://zanbil.online/product/tg-113/?ref=farhad9978&campaign=vkh_shop",
+        "price": 185000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 68,
+        "title": "لامپ پروژکتور LED طرح ستاره",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2021/08/4205_1628233196.jpg",
+        "link": "https://zanbil.online/product/star-master-led/?ref=farhad9978&campaign=vkh_shop",
+        "price": 195000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 69,
+        "title": "اسپیکر بلوتوثی B13",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2021/08/4144_1628628276.jpg",
+        "link": "https://zanbil.online/product/b13/?ref=farhad9978&campaign=vkh_shop",
+        "price": 1000000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 70,
+        "title": "خرید رادیو طرح کلاه هارلی",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2021/08/4192_1627900473.jpg",
+        "link": "https://zanbil.online/product/radio-fan/?ref=farhad9978&campaign=vkh_shop",
+        "price": 370000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 71,
+        "title": "لامپ رقص نور LED",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2021/07/led-05.jpg",
+        "link": "https://zanbil.online/product/lampe-led/?ref=farhad9978&campaign=vkh_shop",
+        "price": 87000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 72,
+        "title": "چراغ خواب طرح دار مکعبی",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2021/07/4164_1624559678.jpg",
+        "link": "https://zanbil.online/product/led-lite/?ref=farhad9978&campaign=vkh_shop",
+        "price": 198000,
+        "category": "لوازم الکترونیک"
+    },
+    {
+        "id": 73,
+        "title": "حشره کش برقی buzz b gone",
+        "description": "",
+        "image": "https://zanbil.online/wp-content/uploads/2021/07/4173_1624939303.jpg",
+        "link": "https://zanbil.online/product/buzz-b-gone/?ref=farhad9978&campaign=vkh_shop",
+        "price": 299000,
+        "category": "لوازم الکترونیک"
     }
 ]
