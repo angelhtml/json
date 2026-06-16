@@ -6,7 +6,8 @@
         "link" : "https://christmasevent.netlify.app/",
         "txt" : "netlify.app/",
         "image" : "https://iili.io/S8DCzX.webp",
-        "alt" : "Christmas Event"
+        "alt" : "Christmas Event",
+        "description": "Christmas Event is a simple landing page for events and created by Chakra UI and framer motion library"
     },
     {
         "_id":2,
@@ -15,7 +16,8 @@
         "link" : "https://angelhtml.github.io/autos/",
         "txt" : "Github/angelhtml",
         "image" : "https://iili.io/S8tDOP.webp",
-        "alt" : "Auto service"
+        "alt" : "Auto service",
+        "description":"A landing page with advanced grid system"
     },
     {
         "_id":3,
@@ -24,7 +26,8 @@
         "link" : "https://distracted-mestorf-55ac92.netlify.app/",
         "txt" : "netlify.app/",
         "image" : "https://iili.io/S8tt5B.webp",
-        "alt" : "Crypto Home"
+        "alt" : "Crypto Home",
+        "description":"A REST API project by Coinpaprika API"
     },
     {
         "_id":4,
@@ -33,7 +36,8 @@
         "link" : "https://angelhtml.github.io/react1/",
         "txt" : "Github/angelhtml",
         "image" : "https://iili.io/S8tZJV.webp",
-        "alt" : "Estate"
+        "alt" : "Estate",
+        "description":"Realstate template"
     },
     {
         "_id":5,
@@ -42,7 +46,8 @@
         "link" : "https://angelhtml.github.io/gamfa_web",
         "txt" : "Github/angelhtml",
         "image" : "https://iili.io/S8tMNt.webp",
-        "alt" : "Gamfa Web"
+        "alt" : "Gamfa Web",
+        "description":""
     },
     {
         "_id":6,
@@ -51,7 +56,8 @@
         "link" : "https://angelhtml.github.io/Iconsnipergamer/",
         "txt" : "Github/angelhtml",
         "image" : "https://iili.io/S8t7Va.webp",
-        "alt" : "Icon Snipergamer"
+        "alt" : "Icon Snipergamer",
+        "description":""
     },
     {
         "_id":7,
@@ -60,7 +66,8 @@
         "link" : "https://theclanproject.netlify.app/",
         "txt" : "netlify.app/",
         "image" : "https://iili.io/S8tADF.webp",
-        "alt" : "The Clan"
+        "alt" : "The Clan",
+        "description":""
     },
     {
         "_id":8,
@@ -69,7 +76,8 @@
         "link" : "https://github.com/angelhtml/Discord_Trading_Bot",
         "txt" : "Github/angelhtml",
         "image" : "https://repository-images.githubusercontent.com/485481817/f5ac2af0-629d-410d-97fe-2fd6329baa07",
-        "alt" : "Discord Trading Bot"
+        "alt" : "Discord Trading Bot",
+        "description":""
     },
     {
         "_id":9,
@@ -78,7 +86,8 @@
         "link" : "https://dawn-fm.netlify.app/",
         "txt" : "netlify.app/",
         "image" : "https://iili.io/S8ZR44.webp",
-        "alt" : "Dawn Fm Player"
+        "alt" : "Dawn Fm Player",
+        "description":""
     },
     {
         "_id":10,
@@ -87,7 +96,8 @@
         "link" : "https://github.com/angelhtml/Form_generator",
         "txt" : "Github/angelhtml",
         "image" : "https://iili.io/4HdaKQ.png",
-        "alt" : "Form generator"
+        "alt" : "Form generator",
+        "description":""
     },
     {
         "_id":11,
@@ -96,7 +106,8 @@
         "link" : "https://cryptomoonshots.com/",
         "txt" : "cryptomoonshots.com",
         "image" : "https://iili.io/HUnwMb4.png",
-        "alt" : "Cryptomoonshots"
+        "alt" : "Cryptomoonshots",
+        "description":""
     },
     {
         "_id":12,
@@ -105,7 +116,8 @@
         "link" : "https://ramsayempire.netlify.app",
         "txt" : "netlify.app/",
         "image" : "https://iili.io/2fzzL5x.png",
-        "alt" : "Ramsay"
+        "alt" : "Ramsay",
+        "description":""
     }
 
 ]
